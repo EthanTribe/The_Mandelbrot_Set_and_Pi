@@ -1,5 +1,5 @@
 # The_Mandelbrot_Set_and_Pi
-The code I wrote for my BSc Mathematics final year project and the report itself (BSc Report pt1.pdf etc.). Apologies for the weird file names, see the report for more information. Now here are some pretty pictures:
+The code I wrote for my BSc Mathematics final year project and the report itself (BSc Report pt1.pdf etc.). Apologies for the weird file names most of the files are commented, see the report for more information. Now here are some pretty pictures:
 
 Mandelbrot.py with some Julias.py on top
 ![julia5bulblocations](https://user-images.githubusercontent.com/86515484/126634872-19aff962-50fa-495c-93fc-1169ef2c191f.jpg)
